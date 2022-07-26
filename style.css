@@ -1,0 +1,105 @@
+body {
+     background-color: black;
+     
+}
+
+h2 {
+    color: rgb(236, 225, 12);
+    text-align: center;
+    background-color: rgb(51, 51, 236);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+p {
+    color: white;
+    padding-left: 20px;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+img {
+    padding-left: 540px;
+    border-color: blue;
+    
+    
+}
+
+
+.firstgen {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.bullbasur {
+    padding-left: 80px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.charmander {
+    padding-left: 80px;
+}
+
+.squirtle {
+    padding-left: 80px;
+}
+
+#red {
+    padding-bottom: 20px;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#blue {
+    padding-bottom: 20px;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#info2 {
+    font-size: 14px;
+    padding-left: 120px;
+    padding-bottom: 30px;
+    margin: auto;
+    background-color: rgb(36, 154, 227);
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+    border: red;
+}
+
+#info1 {
+    font-size: 14px;
+    padding-left: 120px;
+    padding-bottom: 30px;
+    margin: auto;
+    background-color: rgb(213, 132, 51);
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+    border: red;
+}
+
+
+
+#info {
+    font-size: 14px;
+    padding-left: 120px;
+    padding-bottom: 30px;
+    margin: auto;
+    background-color: rgb(76, 207, 76);
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px;
+    border: red;
+
+}
+
+#text {
+    padding-bottom: 20px;
+    font-size: 10px;
+}
